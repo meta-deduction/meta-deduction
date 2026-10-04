@@ -1,9 +1,9 @@
-# Package name
+# Meta-deduction
 <pre>
-  pip install package-name
+  pip install meta-deduction
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import meta_deduction
 ```
